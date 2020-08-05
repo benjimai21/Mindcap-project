@@ -1,0 +1,2 @@
+# Mindcap-project
+startup project
